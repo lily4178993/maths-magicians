@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./src/assets/logo-readme.png" alt="logo" width="140"  height="140" />
-
+  
+  ![logo100](https://github.com/lily4178993/maths-magicians/assets/101261047/d167deb3-6d60-4012-9ba4-b44056e061ea)
 # **Math Magicians**
 
 Step right up and behold the enchanting world of **Math Magicians**! Prepare to be amazed as we conjure up mathematical wonders that will leave you giggling and gasping in awe. From mind-boggling calculations on our Calculator page to quotes that will tickle your funny bone on our Quote page, we've got it all! Home is where the math is, and it's full of surprises, laughter, and endless possibilities. So, fasten your seatbelts, hold on tight, and let the math magic take you on a wild and hilarious ride! Get ready to LOL (Laugh Out Loud) with Math Magicians - where numbers and fun collide!

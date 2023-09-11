@@ -21,13 +21,13 @@ Step right up and behold the enchanting world of **Math Magicians**! Prepare to 
 - [Built With 🛠](#built-with)
 - [Tech Stack](#tech-stack)
 - [Key Features 🏷️](#key-features)
-- [Live Demo 🚀](#live-demo)
 - [Getting Started 💻](#getting-started)
 - [Prerequisites 🧱](#prerequisites)
 - [Setup ⚙️](#setup)
 - [Install 🏗️](#install)
 - [Usage 📂](#usage)
 - [Author 👤](#author)
+- [Future Features 🔭](#future-features)
 - [Contributing 🤝](#contributing)
 - [Show your support 🌟](#support)
 - [Acknowledgements 🙏](#acknowledgements)
@@ -56,20 +56,9 @@ Step right up and behold the enchanting world of **Math Magicians**! Prepare to 
 ### **Key Features 🏷️** <a name="key-features"></a>
 
 - _Make simple calculations_
-- _Read a random math-related quote._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
-
----
-
-<!-- LIVE DEMO -->
-
-## Live Demo 🚀<a name="live-demo"></a>
-
-> Please click 😊[here](https://github.com/lily4178993/maths-magicians) for a live demo.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -146,6 +135,14 @@ Open page in browser
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
+
+---
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- _Add a random math-related quote._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 

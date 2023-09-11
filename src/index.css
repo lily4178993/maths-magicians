@@ -36,12 +36,21 @@ button.orange:hover {
 }
 
 .output {
+  height: 80px;
   font-weight: 500;
   text-align: right;
-  font-size: 2.5rem;
   background: #858694;
   color: #fff;
   padding: 2px 5px;
+}
+
+.output1 {
+  font-size: 1.3rem;
+  opacity: 0.8;
+}
+
+.output2 {
+  font-size: 2.5rem;
 }
 
 .keyboard {

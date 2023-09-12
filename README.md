@@ -108,6 +108,28 @@ Run project
   npm install
 ```
 
+### Environment Variables
+
+To run this project, you need to set up the following environment variables:
+
+- `REACT_APP_API_KEY`: Obtain this API key from [API Provider](https://api-ninjas.com/api/quotes) and store it in your `.env.local` file.
+- `REACT_APP_OTHER_KEY`: Similarly, if there are other keys required, mention them here.
+
+### Setting Up Environment Variables
+
+1. Create a `.env.local` file in the project root.
+2. Add the necessary environment variables with their corresponding values in the `.env.local` file.
+
+Example `.env.local` file:
+```
+  REACT_APP_API_KEY=your-api-key-here
+  REACT_APP_OTHER_KEY=your-other-key-here
+```
+
+
+> ### Note
+> Please keep these API keys and sensitive information confidential. Do not commit the `.env.local` file to version control.
+
 ---
 
 <!-- USAGE -->

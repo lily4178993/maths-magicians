@@ -23,7 +23,7 @@ const Calculator = () => {
   const shouldRenderOutput1 = resultOperation.total !== null && resultOperation.total !== undefined;
 
   return (
-    <div className="calculator">
+    <div className="calculator fade-in-top">
       <div className="output">
         {shouldRenderOutput1 && (
           <CalcOutput

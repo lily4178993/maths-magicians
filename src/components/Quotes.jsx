@@ -16,6 +16,8 @@ const Quotes = () => {
           headers: {
             'X-Api-Key': apiKey,
           },
+          contentType: 'application/json',
+          'X-Content-Type-Options': 'nosniff',
         });
 
         if (!response.ok) {
@@ -39,11 +41,11 @@ const Quotes = () => {
   }, [apiKey, baseURL, category, quotes.length]);
 
   return (
-    <div className="quote">
-      {loading && <div>Loading...</div>}
-      {error && <div>{error}</div>}
+    <>
+      {loading && <div className="loading-message">Loading...</div>}
+      {error && <div className="error-message">{error}</div>}
       {quotes.map((item) => (
-        <p key={1}>
+        <p key={1} className="quote">
           <i>
             <b>
               <cite>{item.quote}</cite>
@@ -54,7 +56,7 @@ const Quotes = () => {
           </i>
         </p>
       ))}
-    </div>
+    </>
   );
 };
 

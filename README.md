@@ -96,8 +96,8 @@ To run the Math Magicians application, you need to configure the following envir
 
 Follow these steps to set up your environment variables:
 
-1. Create a `.env.local` file in the project's root directory.
-2. Inside the `.env.local` file, add the necessary environment variables with their corresponding values. For example:
+1. Create a `.env` file in the project's root directory.
+2. Inside the `.env` file, add the necessary environment variables with their corresponding values. For example:
     ```
       REACT_APP_QUOTES_URL=your-api-url-here
       REACT_APP_QUOTES_KEY=your-api-key-here
@@ -107,7 +107,7 @@ Follow these steps to set up your environment variables:
 > ////////////////////
 >
 > **Note**:
-> Keep these API keys and sensitive information confidential and do not commit the `.env.local` file to version control.
+> Keep these API keys and sensitive information confidential and do not commit the `.env` file to version control.
 >
 > ////////////////////
 

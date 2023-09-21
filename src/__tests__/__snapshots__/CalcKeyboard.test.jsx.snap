@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PropTypes snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="keyboard"
+  >
+    <button
+      title="1"
+      type="button"
+    >
+      1
+    </button>
+    <button
+      title="2"
+      type="button"
+    >
+      2
+    </button>
+    <button
+      class="orange"
+      title="+"
+      type="button"
+    >
+      +
+    </button>
+    <button
+      class="orange"
+      title="-"
+      type="button"
+    >
+      -
+    </button>
+  </div>
+</DocumentFragment>
+`;

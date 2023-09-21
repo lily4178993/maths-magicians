@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound component snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="noFound fade-in-top"
+  >
+    Page not found. Go to
+    <a
+      href="/"
+    >
+      Home
+    </a>
+    page
+  </section>
+</DocumentFragment>
+`;

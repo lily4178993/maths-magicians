@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quote component snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="section-quotes fade-in-top"
+  >
+    <div
+      class="loading-message"
+    >
+      Loading...
+    </div>
+  </section>
+</DocumentFragment>
+`;

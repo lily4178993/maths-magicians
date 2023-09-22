@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quotes component matches snapshot when fetching quotes is successful 1`] = `
+<DocumentFragment>
+  <div
+    class="loading-message"
+  >
+    Loading...
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Quotes component matches snapshot while fetching quotes 1`] = `
+<DocumentFragment>
+  <div
+    class="loading-message"
+  >
+    Loading...
+  </div>
+</DocumentFragment>
+`;

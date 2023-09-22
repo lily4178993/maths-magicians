@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="section-home fade-in-top"
+  >
+    <h2
+      class="section-title fade-in-left"
+    >
+      Welcome to our page!
+    </h2>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, voluptatum eum! Tempora itaque saepe iure sed aut magni minima soluta laborum, tenetur voluptas eos, dignissimos, eligendi doloremque quo perspiciatis natus!
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, voluptatum eum! Tempora itaque saepe iure sed aut magni minima soluta laborum, tenetur voluptas eos, dignissimos, eligendi doloremque quo perspiciatis natus!
+    </p>
+  </section>
+</DocumentFragment>
+`;
